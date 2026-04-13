@@ -1,0 +1,5 @@
+{
+  "name": "Vovó ESP",
+  "description": "Herramienta profesional para generar historias largas en español usando Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
